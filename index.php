@@ -42,7 +42,7 @@
 
         <div class="card">
 
-            <img src="imagem.jpg" class="card-img-top" alt="Imagem de teste">
+            <img src="imagem.jpg.jpeg" class="card-img-top" alt="Imagem de teste">
 
             <div class="card-body text-center">
 
